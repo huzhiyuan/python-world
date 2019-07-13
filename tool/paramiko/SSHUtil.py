@@ -3,7 +3,7 @@
 import paramiko
 host = '192.168.158.130'
 username='hzy'
-password = 'saber'
+password = 'xxx'
 
 def test():
     test_transport()
